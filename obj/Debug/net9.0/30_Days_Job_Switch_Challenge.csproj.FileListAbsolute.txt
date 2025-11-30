@@ -1,0 +1,15 @@
+c:\Users\vikas pawar\OneDrive\Desktop\30_Days_Job_Switch_Challenge\bin\Debug\net9.0\30_Days_Job_Switch_Challenge.exe
+c:\Users\vikas pawar\OneDrive\Desktop\30_Days_Job_Switch_Challenge\bin\Debug\net9.0\30_Days_Job_Switch_Challenge.deps.json
+c:\Users\vikas pawar\OneDrive\Desktop\30_Days_Job_Switch_Challenge\bin\Debug\net9.0\30_Days_Job_Switch_Challenge.runtimeconfig.json
+c:\Users\vikas pawar\OneDrive\Desktop\30_Days_Job_Switch_Challenge\bin\Debug\net9.0\30_Days_Job_Switch_Challenge.dll
+c:\Users\vikas pawar\OneDrive\Desktop\30_Days_Job_Switch_Challenge\bin\Debug\net9.0\30_Days_Job_Switch_Challenge.pdb
+c:\Users\vikas pawar\OneDrive\Desktop\30_Days_Job_Switch_Challenge\obj\Debug\net9.0\30_Days_Job_Switch_Challenge.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\vikas pawar\OneDrive\Desktop\30_Days_Job_Switch_Challenge\obj\Debug\net9.0\30_Days_Job_Switch_Challenge.AssemblyInfoInputs.cache
+c:\Users\vikas pawar\OneDrive\Desktop\30_Days_Job_Switch_Challenge\obj\Debug\net9.0\30_Days_Job_Switch_Challenge.AssemblyInfo.cs
+c:\Users\vikas pawar\OneDrive\Desktop\30_Days_Job_Switch_Challenge\obj\Debug\net9.0\30_Days_Job_Switch_Challenge.csproj.CoreCompileInputs.cache
+c:\Users\vikas pawar\OneDrive\Desktop\30_Days_Job_Switch_Challenge\obj\Debug\net9.0\30_Days_Job_Switch_Challenge.sourcelink.json
+c:\Users\vikas pawar\OneDrive\Desktop\30_Days_Job_Switch_Challenge\obj\Debug\net9.0\30_Days_Job_Switch_Challenge.dll
+c:\Users\vikas pawar\OneDrive\Desktop\30_Days_Job_Switch_Challenge\obj\Debug\net9.0\refint\30_Days_Job_Switch_Challenge.dll
+c:\Users\vikas pawar\OneDrive\Desktop\30_Days_Job_Switch_Challenge\obj\Debug\net9.0\30_Days_Job_Switch_Challenge.pdb
+c:\Users\vikas pawar\OneDrive\Desktop\30_Days_Job_Switch_Challenge\obj\Debug\net9.0\30_Days_Job_Switch_Challenge.genruntimeconfig.cache
+c:\Users\vikas pawar\OneDrive\Desktop\30_Days_Job_Switch_Challenge\obj\Debug\net9.0\ref\30_Days_Job_Switch_Challenge.dll
