@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("30_Days_Job_Switch_Challenge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ef8f6893da4f30976122f358c2b34376902a460")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12590845481696c63977048b4d7dac8dbdc0332d")]
 [assembly: System.Reflection.AssemblyProductAttribute("30_Days_Job_Switch_Challenge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("30_Days_Job_Switch_Challenge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
